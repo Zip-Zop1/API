@@ -44,7 +44,7 @@ Antes de começar, certifique-se de ter:
 
 Para entender melhor como a API funciona, assista ao vídeo de apresentação localizado na pasta `files`:
 
-[Veja o vídeo de apresentação aqui](./files/API.mp4)
+<video src="files/API.mp4">
 
 Ou acesse diretamente o arquivo no repositório para visualizar no seu player favorito.
 
