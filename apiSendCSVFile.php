@@ -21,7 +21,7 @@ $data = [
     "media" => $cFile,
     "body" => $body,
     "number" => $number,
-    "externalKey" => "",
+    "externalKey" => "",//Esta chave é a ultima parte dos caracteres da url!,logo se a url for: "https://api.zip-zop.site/v1/api/external/asdl-asdmasd=3323d" a externalKey será:"asdl-asdmasd=3323d"
     "fileName" => basename($fileName)
 ];
 
