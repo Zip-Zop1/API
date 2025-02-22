@@ -1,13 +1,16 @@
 <?php
 
-$url = 'URL_API'; //Url da API
-$token = "TOKEN_API"; // api token
+// Defina o token de autenticação
+$token = '';
 
-// Defina o número de telefone e a mensagem
 $data = [
-    'number' => '557183196364', // Número de telefone no formato internacional
-    'body' => 'Ei Zip-Zop, esta é uma mensagem enviada apenas como texto pelo PHP!'
+    'number' => '5571982462438', // Número de telefone no formato internacional
+    'body' => 'Ei Rony, esta é uma mensagem enviada apenas como texto pelo PHP!',
+    'externalKey' => ''//Esta chave é a ultima parte dos caracteres da url!,logo se a url for: "https://api.zip-zop.site/v1/api/external/asdl-asdmasd=3323d" a externalKey será:"asdl-asdmasd=3323d"
 ];
+
+// URL do endpoint
+$url = '';
 
 
 // Inicializar cURL
