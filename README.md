@@ -67,3 +67,6 @@ Se você tiver dúvidas ou encontrar problemas, entre em contato com o suporte t
 ---
 
 Aproveite a API para melhorar suas integrações com CRMs de tickets e tornar o atendimento mais rápido e eficiente!
+
+## Playslist de primeiros passos no whatsApp
+https://www.youtube.com/watch?v=HflobL-Zypw&list=PLVGVOG_v1_vjMTpr2w_gYQpWaZVTW917_
